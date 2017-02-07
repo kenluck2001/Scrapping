@@ -1,0 +1,16 @@
+lxml==3.5.0
+MarkupSafe==0.23
+multipledispatch==0.4.8
+multiprocess==0.70.4
+numba==0.23.1
+numdifftools==0.9.20
+numexpr==2.6.1
+numpy==1.11.3
+oauthlib==2.0.0
+pandas==0.17.1
+pep8==1.7.0
+requests==2.11.1
+requests-oauthlib==0.6.2
+twython==3.4.0
+ujson==1.35
+unicodecsv==0.14.1
